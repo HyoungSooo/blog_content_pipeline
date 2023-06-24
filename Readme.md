@@ -52,6 +52,13 @@ in docker-compose.yml
 ### demo site
 https://port-0-djangoblog-1duf6sd2blhjy1sm5.sel4.cloudtype.app/
 
+
+### dashboard
+```shell
+# kibana dashboard
+http://localhost:5601/
+```
+
 ### futuer works
 * combine to Tiwwter, other blog api
 * using cron to automatically run the pipeline
